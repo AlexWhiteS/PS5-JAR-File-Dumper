@@ -15,7 +15,7 @@ This project is an adaptation of projects from john-tornblom for an adapted JAR 
     IPv4 address. . . . . . . . . . . . : 192.168.0.11
    
 1. Connect your PS5 to the same network as your computer.
-2. Burn the ISO image of the bootloader JAR to a BD-RE disc. A BD-R disc is also possible, but this disc is a one-time recording only
+2. Burn the ISO image of the loader JAR to a BD-RE disc. A BD-R disc is also possible, but this disc is a one-time recording only
    
    https://github.com/hammer-83/ps5-jar-loader/releases/download/v20231027/ps5-jar-loader.iso
 3. Insert the disc with the recorded image into your PS5 console and press play. You should see a message about waiting for a JAR file on ip:port
