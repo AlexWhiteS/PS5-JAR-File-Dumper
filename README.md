@@ -6,7 +6,7 @@ This project is an adaptation of projects from john-tornblom for an adapted JAR 
  
    String serverAddress = "192.168.0.11";
 
-   where 192.168.0.11 - your local computer ipv4 adress.
+   where 192.168.0.11 - your local ipv4 adress on computer.
    
    Open cmd and say "ipconfig".
    
